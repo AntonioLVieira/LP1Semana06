@@ -42,6 +42,10 @@ namespace GameSix
     name = newName;
    }
   }
+  public void PickupPowerUp(PowerUp, float)
+  {
+   return void;
+  }
 
  
   
