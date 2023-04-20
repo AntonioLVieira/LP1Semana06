@@ -1,9 +1,15 @@
 namespace GameSix
 {
- public Foe (string name)
+ public class Foe
  {
-  this.name = name;
-  health = 100;
-  shield = 0;
+  private string name;
+  private float health;
+  private float shield;
+  public Foe (string name)
+  {
+   this.name = name;
+   health = 100;
+   shield = 0;
+  }
  }
 }
