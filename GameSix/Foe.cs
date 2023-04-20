@@ -4,6 +4,7 @@ namespace GameSix
 {
  public class Foe
  {
+  private int powerUp;
   private string name;
   private float health;
   private float shield;
@@ -12,6 +13,7 @@ namespace GameSix
    this.name = name;
    health = 100;
    shield = 0;
+   powerUp = 0;
   }
   public string GetName()
   {
@@ -44,15 +46,21 @@ namespace GameSix
     name = newName;
    }
   }
+  public int GetPowerUp()
+  {
+   return powerUp;
+  }
   public void PickupPowerUp(PowerUp p, float f)
   {
    if(p == PowerUp.Health)
    {
     health += f;
+    powerUp++;
    }
    else if(p == PowerUp.Shield)
    {
     shield += f;
+    powerUp++;
    } 
    else
    {
