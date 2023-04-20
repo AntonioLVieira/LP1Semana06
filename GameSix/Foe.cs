@@ -34,6 +34,14 @@ namespace GameSix
   {
    return shield;
   }
+  public void SetName(string newName)
+  {    
+   newName = newName.Trim(); 
+   if (newName.Length > 0 && newName[0] != ' ' && newName[newName.Length - 1] != ' ')
+   {
+    name = newName;
+   }
+  }
 
  
   
