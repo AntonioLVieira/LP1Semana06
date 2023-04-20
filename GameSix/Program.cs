@@ -20,8 +20,6 @@ namespace GameSix
             {
                 Console.WriteLine(enemies[i].GetName());
             }
-            
-
         }
     }
 }

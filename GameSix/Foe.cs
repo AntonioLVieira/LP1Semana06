@@ -1,3 +1,5 @@
+using System;
+
 namespace GameSix
 {
  public class Foe
@@ -42,9 +44,24 @@ namespace GameSix
     name = newName;
    }
   }
-  public void PickupPowerUp(PowerUp, float)
+  public void PickupPowerUp(PowerUp p, float f)
   {
-   return void;
+   if(p == PowerUp.Health)
+   {
+    health += f;
+   }
+   else if(p == PowerUp.Shield)
+   {
+    shield += f;
+   } 
+   else
+   {
+    if (shield > 100 || health > 100)
+    {
+     Console.WriteLine("not possible");
+    }
+    
+   }
   }
 
  
