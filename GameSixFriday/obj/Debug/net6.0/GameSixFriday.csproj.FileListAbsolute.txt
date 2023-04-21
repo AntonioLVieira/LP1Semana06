@@ -1,0 +1,15 @@
+C:\Users\a22204411\LP1Semana06\GameSixFriday\bin\Debug\net6.0\GameSixFriday.exe
+C:\Users\a22204411\LP1Semana06\GameSixFriday\bin\Debug\net6.0\GameSixFriday.deps.json
+C:\Users\a22204411\LP1Semana06\GameSixFriday\bin\Debug\net6.0\GameSixFriday.runtimeconfig.json
+C:\Users\a22204411\LP1Semana06\GameSixFriday\bin\Debug\net6.0\GameSixFriday.dll
+C:\Users\a22204411\LP1Semana06\GameSixFriday\bin\Debug\net6.0\GameSixFriday.pdb
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\GameSixFriday.csproj.AssemblyReference.cache
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\GameSixFriday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\GameSixFriday.AssemblyInfoInputs.cache
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\GameSixFriday.AssemblyInfo.cs
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\GameSixFriday.csproj.CoreCompileInputs.cache
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\GameSixFriday.dll
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\refint\GameSixFriday.dll
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\GameSixFriday.pdb
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\GameSixFriday.genruntimeconfig.cache
+C:\Users\a22204411\LP1Semana06\GameSixFriday\obj\Debug\net6.0\ref\GameSixFriday.dll
