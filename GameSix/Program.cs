@@ -20,6 +20,7 @@ namespace GameSix
             {
                 Console.WriteLine(enemies[i].GetName());
             }
+            Console.WriteLine("Merci d'utilizer ce programme!");
         }
     }
 }
